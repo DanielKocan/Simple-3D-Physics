@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+*.db
+.vs/
+Simple-3.b86fd95f/
+x64/
